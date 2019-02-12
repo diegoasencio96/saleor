@@ -60,6 +60,7 @@ function loadStories() {
   require("./stories/staff/StaffDetailsPage");
 
   // Pages
+  require("./stories/pages/PageDetailsPage")
   require("./stories/pages/PageListPage")
 
   // Products
