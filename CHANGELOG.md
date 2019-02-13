@@ -7,6 +7,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Improve vouchers country limiting  - #3707 by @michaljelonek
 - Add support for date and datetime components - #3708 by @dominik-zeglen
 - Unify field names on product, collection and page - #3706 by @michaljelonek
+- Add discount section - #3654 by @dominik-zeglen
 
 
 ## 2.3.0
@@ -264,4 +265,3 @@ All notable, unreleased changes to this project will be documented in this file.
 - Add list mutations to Voucher and Sale - #3669 by @michaljelonek
 - Modify Sale/Voucher Inputs to use Date - #3672 by @michaljelonek
 - Add component generator - #3670 by @dominik-zeglen
-- Add discount section - #3654 by @dominik-zeglen
